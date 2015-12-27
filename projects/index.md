@@ -5,8 +5,8 @@ layout: page
 ---
 
 {% for repository in site.github.public_repositories %}
-    # [{{ repository.name }}]({{ repository.html_url }})
-    {{ repository.tagline }}
+# [{{ repository.name }}]({{ repository.html_url }})
+{{ repository.description }} [
 {% endfor %}
 
 <!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
