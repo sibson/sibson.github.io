@@ -3,7 +3,6 @@ title: Projects
 author: marc
 layout: page
 ---
-
 # vncdotool
 A command line VNC client. [Github](https://github.com/sibson/vncdotool)
 
