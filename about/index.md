@@ -8,6 +8,7 @@ layout: page
   * [LinkedIn][1]
   * [Github][2]
   * [Twitter][4]
+  * [Angel List](https://angel.co/sibson)
 
 # Resume
 
