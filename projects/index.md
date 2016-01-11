@@ -3,7 +3,14 @@ title: Projects
 author: marc
 layout: page
 ---
-{% for repository in site.github.public_repositories | sort 'stargazers_counts' %}
+
+{% if site.github.public_repositories %}
+{% assign repos = site.github.public_repositories | sort:'stargazers_counts' %}
+{% else %}
+{% assign repos = '' %}
+{% endif %}
+
+{% for repository in repos %}
 {% if site.active-projects[repository.name] %}
 # [{{ repository.name }}]({{ repository.html_url }})
 {{ repository.description }}
