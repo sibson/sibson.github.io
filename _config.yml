@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+#  Home: ""
   About Me: "about"
   Projects: "projects"
   
@@ -38,21 +38,21 @@ navbar-links:
 author:
   name: Marc Sibson
   email: "sibson@gmail.com"
-#  facebook: yourname  # eg. daattali
-  github: sibson    # eg. daattali
-  twitter: sibson   # eg. daattali
-  linkedin: https://ca.linkedin.com/in/sibson  # eg. "pub/dean-attali/8/946/143"
+#  facebook: yourname
+  github: sibson
+  twitter: sibson
+  linkedin: in/sibson
   stackoverflow: 170997/marc
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: false
   email: true
   twitter: true
   github: true
-  linkedin: false
-  stackoverflow: false
+  linkedin: true
+  stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
