@@ -3,20 +3,13 @@ title: Projects
 author: marc
 layout: page
 ---
-# vncdotool
-A command line VNC client. [Github](https://github.com/sibson/vncdotool)
 
-# RedBeat
-A Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis. [Github](https://github.com/sibson/redbeat)
-
-# DynoUp
-Periodically check if a target application needs more Dynos. [Github](https://github.com/sibson/dynoup)
-
-# GHInbox
- allows you to create GitHub Issues via email [Github](https://github.com/sibson/ghinbox)
-
-# heroku-loco-plugin
-A Heroku CLI Plugin to run local code with an runtime environment similar to a one-off dyno. [Github](https://github.com/sibson/heroku-loco-plugin)
+{% for repository in site.github.public_repositories %}
+{% if site.active-projects[repository.name] %}
+# [{{ repository.name }}]({{ repository.html_url }})
+{{ repository.description }} [
+{% endif %}
+{% endfor %}
 
 <!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
 

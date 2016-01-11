@@ -43,7 +43,14 @@ author:
   twitter: sibson
   linkedin: in/sibson
   stackoverflow: 170997/marc
- 
+
+active-projects:
+    vncdotool: true
+    ghinbox: true
+    redbeat: true
+    dynoup: true
+    heroku-loco-plugin: true
+
 # Select which links to show in the footer
 footer-links-active:
   rss: true
