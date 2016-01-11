@@ -1,6 +1,6 @@
 # project
 _site
-img/_resume/
+_build
 
 .sass-cache
 .vagrant
