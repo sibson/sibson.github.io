@@ -5,14 +5,14 @@ layout: page
 ---
 
 {% if site.github.public_repositories %}
-{% assign repos = site.github.public_repositories | sort:'stargazers_counts' %}
+{% assign repos = site.github.public_repositories | sort:'stargazers_count' %}
 {% else %}
 {% assign repos = '' %}
 {% endif %}
 
 {% for repository in repos %}
 {% if site.active-projects[repository.name] %}
-# [{{ repository.name }}]({{ repository.html_url }}) [{{ repository.watchers_counts }}|{{ repository.stargazers_counts }}]
+# [{{ repository.name }}]({{ repository.html_url }}) [{{ repository.watchers_count }}|{{ repository.stargazers_count }}]
 {{ repository.description }}
 {% endif %}
 {% endfor %}
