@@ -12,7 +12,7 @@ layout: page
 
 {% for repository in repos %}
 {% if site.active-projects[repository.name] %}
-# [{{ repository.name }}]({{ repository.html_url }})
+# [{{ repository.name }}]({{ repository.html_url }}) [{{ repository.watchers_counts }}|{{ repository.stargazers_counts }}]
 {{ repository.description }}
 {% endif %}
 {% endfor %}
