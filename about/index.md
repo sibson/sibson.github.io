@@ -1,5 +1,5 @@
 ---
-title: About Marc
+title: The inside scoop
 author: marc
 layout: page
 ---
@@ -13,8 +13,8 @@ layout: page
 
 Get it before its gone, in [PDF Format][5] or [Plain Text][6] format.
 
- [1]: http://ca.linkedin.com/in/sibson "LinkedIn"
- [2]: http://github.com/sibson "Github"
- [4]: http://twitter.com/#!/sibson "Twitter"
- [5]: http://www.marcsibson.com/wp-content/uploads/2011/09/marc_sibson_resume.pdf
- [6]: http://www.marcsibson.com/wp-content/uploads/2011/09/marc_sibson_resume.txt
+ [1]: https://ca.linkedin.com/in/sibson "LinkedIn"
+ [2]: https://github.com/sibson "Github"
+ [4]: https://twitter.com/#!/sibson "Twitter"
+ [5]: /img/marc_sibson_resume.pdf
+ [6]: /img/marc_sibson_resume.txt

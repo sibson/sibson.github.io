@@ -1,5 +1,7 @@
 # project
 _site
+img/_resume/
+
 .sass-cache
 .vagrant
 

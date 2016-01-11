@@ -1,0 +1,49 @@
+    pageSetup:
+        firstTemplate: coverPage
+        size: Letter
+        margin-top: 2cm
+        margin-bottom: 1cm
+        margin-left: 2cm
+        margin-right: 2cm
+        margin-gutter: 0cm
+
+    pageTemplates: 
+        coverPage:  
+            showHeader: false
+            showFooter: true
+
+    styles: 
+        title:
+            fontName: Arial-BoldNarrow
+            alignment: left
+            spaceAfter: 0
+
+        heading1:
+            fontName: Arial-Bold
+            spaceBefore: 8
+            fontSize: 150%
+            spaceAfter: 4
+
+        base:
+            fontName: Arial
+
+        header:
+            fontName: Arial-BoldNarrow
+            fontSize: 150%
+
+        bodytext:
+            spaceBefore: 0
+
+        bullet-list:
+            spaceBefore: 0
+            spaceAfter: 10
+
+        bullet-list-item:
+            spaceBefore: 0
+
+        lineblock:
+            spaceBefore: 0
+            alignment: left
+
+        field-list: 
+            spaceBefore: 10
