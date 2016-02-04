@@ -3,7 +3,7 @@ title: The inside scoop
 author: marc
 layout: page
 ---
-# Public Profiles
+# Around the Web
 
   * [LinkedIn][1]
   * [Github][2]
