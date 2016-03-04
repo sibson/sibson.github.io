@@ -12,7 +12,10 @@ $(IMG_DIR)/marc_sibson_resume.pdf: $(BUILD_DIR)/$(DOC_DIR)/marc_sibson_resume.pd
 $(IMG_DIR)/marc_sibson_resume.txt: $(DOC_DIR)/marc_sibson_resume.txt
 	cp $< $@
 
-serve:
-	jekyll serve
+run:
+	jekyll serve --incremental
+
+clean::
+	rm -rf .jekyll-metadata _site _build
 
 include $(DOC_DIR)/makefile

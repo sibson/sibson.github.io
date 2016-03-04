@@ -29,8 +29,8 @@ DOCUMENT?=$(wildcard $(DOC_DIR)/*.txt)
 PDFS?=$(addprefix $(BUILD_DIR)/,$(DOCUMENT:.txt=.pdf))
 HTMLS?=$(addprefix $(BUILD_DIR)/,$(DOCUMENT:.txt=.html))
 
-RST2PDF?=rst2pdf
-RST2HTML?=rst2html
+RST2PDF?=rst2pdf.py
+RST2HTML?=rst2html.py
 
 pdf:: $(PDFS)
 html:: $(HTMLS)
