@@ -29,8 +29,8 @@ DOCUMENT?=$(wildcard $(DOC_DIR)/*.txt)
 PDFS?=$(addprefix $(BUILD_DIR)/,$(DOCUMENT:.txt=.pdf))
 HTMLS?=$(addprefix $(BUILD_DIR)/,$(DOCUMENT:.txt=.html))
 
-RST2PDF?=rst2pdf.py
-RST2HTML?=rst2html.py
+RST2PDF?=rst2pdf
+RST2HTML?=rst2html
 
 pdf:: $(PDFS)
 html:: $(HTMLS)
@@ -39,10 +39,10 @@ docs:: html pdf
 $(BUILD_DIR)/$(DOC_DIR):
 	mkdir -p $@
 
-$(BUILD_DIR)/%.pdf: %.txt | $(BUILD_DIR)/$(DOC_DIR)
+$(BUILD_DIR)/%.pdf: %.txt %.css | $(BUILD_DIR)/$(DOC_DIR)
 	$(RST2PDF) $(RST2PDF_FLAGS) $< -o $@
 
-$(BUILD_DIR)/%.html: %.txt | $(BUILD_DIR)/$(DOC_DIR)
+$(BUILD_DIR)/%.html: %.txt %.css | $(BUILD_DIR)/$(DOC_DIR)
 	$(RST2HTML) $< $@
 
 clean::
