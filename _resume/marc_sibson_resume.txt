@@ -23,8 +23,8 @@ Expertise
 ----------------
 Leadership
     Agile practices, Facilitation, Fostering collaborative culture,
-    Ruthless prioritization, Empathy, Mentoring, Explicit communication,
-    Understanding business *value and needs,
+    Empathy, Mentoring, Explicit communication,
+    Understanding and Balancing business needs, Ruthless prioritization
 
 Technical Domains
     Distributed, Concurrency, Multi-threaded, Networked, Embedded, Control Systems
