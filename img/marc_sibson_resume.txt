@@ -1,58 +1,90 @@
 Marc Sibson
 ##############################################################################
-| 3656 Borham Crescent, Vancouver BC, V5S 3X1
-| 289-828-5535
-| sibson@gmail.com
-| http://marcsibson.com/
+
+| 41 Inder Heights Dr, Brampton, On, L6Z 3N5
+| sibson@gmail.com | 604-783-6909 
+| http://marcsibson.com/ | https://github.com/sibson/
 
 Profile
 ----------------
-Problem solving generalist who loves to dive deep.
-I'm a Software Developer with over ten years experience, including full-stack
-web development, deploying highly customized Linux distributions, creating 
-distributed highly available systems, down to kernel driver and embedded
-device development. I have successfully juggled evolving requirements and
-blended new technologies into robust and elegant products. For my next
-adventure I'd like the opportunity to contribute to OSS, learn more from my
-peers and make users happy with amazing products.
+A problem solving leader who loves challenges and growth. 
+After ten years as a Software Developer, I've become more focused on helping others thrive and excel.
+As a leader I've discovered an appreciation for the complexity of people and
+the numerous obstacles that we need to overcome to create outstanding products,
+value and teams.
+As a developer, I successfully juggled evolving requirements and blended new technologies into robust and elegant products. 
+I ran the gamut from full-stack web development, 
+creating and operating distributed highly available systems, 
+crafting custom lightweight Linux distributions,
+down to kernel drivers and embedded device development.
+
 
 Expertise
 ----------------
-Domains
-    Concurrent, Distributed, Multi-threaded, Networked, Embedded, Control
-    Systems, GNU/Linux, Cross-platform, Configuration Management,
+Leadership
+    Agile practices, Facilitiation, Fostering collaborative culture,
+    Ruthless prioritization, Empathy, Mentoring, Explicit communication,
+    Understanding business *value and needs,
+
+Technical Domains
+    Distributed, Concurrency, Multi-threaded, Networked, Embedded, Control Systems
+    GNU/Linux, NetBSD, Cross-platform, Configuration Management,
     Continuous Integration, Build Processes and High Availability
 
-Languages
+Languages, Tools, Libraries, Technologies
     Python, C, HTML, JavaScript, C++, Bash, Make, Java, Lua
+    PostgreSQL, Redis, Kafka, AWS, Memcached, KVM
+    Django, gevent, Twisted, dpkg, Openembedded, Flask, Ansible, Chef, Terraform
+    Git, Subversion, Ubuntu, Jenkins, Heroku, AWS
 
-Tools, Libraries, Technologies
-    Django, AWS, jQuery, Knockout, gevent, memcached, Twisted, Redis, dpkg,
-    Git, Subversion, KVM, Openembedded, Ubuntu, Jenkins, Flask, Ansible, Chef
-
-Skills
-    Agile Development, Self motivated, Team player, Strong written and verbal
-    communication skills, Manage conflicting priorities, Excellent time
-    management, Highly organized, Great problem solver, Strong work ethic,
-    Experienced Mentor, Awareness of business needs
 
 Experience
 ----------------
+| **Engineering Manager, Heroku/Salesforce**
+| **Aug 2016 - Present** *Remote (Vancouver, BC/Brampton, ON)*
 
-| **Senior Software Engineer, Tindie**
-| *May 2013 - Present*
+    - Support and faciliate individual personal growth and overall team autoonmy
+    - Uphold and build a blameless culture that aligns with our values of trust, customer succes, innovation and equality
+    - Focus team on today's goals while continually improving delivery, code quailty, processmaturity, and overall team health
+    - Collaborate with cross-functional leaders to unblock, align and influence other teams to ensure success for the team and business
+    - Aggressivley persue vision for transformational product direction while balancing oblications to existing busines and customers
 
-    - Full stack development for an e-commerce website based on Django/JQuery/Knockout/Bootstrap
-    - Reduced hosting costs more than 60% on AWS infrastructure while improving reliability, performance and maintainability
-    - Led design and development of accounting, shipping, fraud detection, analytics and image management systems
-    - Demonstated ability to work with a distributed international team in a startup environment
+
+| **Team Lead, Heroku/Salesforce**
+| **Dec 2015 - Aug 2016** *Remote (Vancouver, BC)*
+
+    - Lead fully remote team to ensure consistent delivery of high value and high quality features
+    - Collaborate with cross-functional leaders to define product roadmap
+    - Champion reduction of technical debt and service scalability and reliability
+    - Work with Sales and Support to address and de-escalate issues for strategic customers
 
 .. raw:: pdf
 
     PageBreak oneColumn
 
-| **Senior Software Developer, Evertz Microsystems**
-| *April 2008 - May 2013*
+
+| **Principle Member of Technical Staff, Heroku/Salesforce**
+| **Aug 2014 - Dec 2015** *Remote (Vancouver, BC)*
+
+   - Backend distributed systems development of Heroku Connect, a bi-directional database syncronization engine for Salesforce Core CRM Data.
+   - Drive improvements to service reliability, including improving platform observability, architectural change and bootstraping CI/CD effort,
+   - Build release confidence by introducing intergration canaries, improved automated test coverage and performance optimization
+   - Influence product roadmap to ensure continuation of sustainable and successful engineering efforts
+   - Consistently deliver high value features to address product gaps ensuring customer sucess
+   - Identify and build out patterns, frameworks and documentation to increase team velocity
+   - Contribute back to OSS with bugfixes, and release of components built in support of the product.
+
+
+| **Lead Software Engineer (Full Stack Web), Tindie**
+| **May 2013 - Aug 2014** *Remote (Vancouver, BC)*
+
+    - Full stack development for a two-sided marketplace, based on Django/JQuery/Knockout/Bootstrap
+    - Reduced hosting costs more than 60% on AWS infrastructure, while improving reliability, performance and maintainability
+    - Led design and development of accounting, shipping, fraud detection, analytics and image management systems
+    - Demonstated ability to work with a distributed international team in a startup environment
+
+| **Lead Software Developer (Distributed Systems), Evertz Microsystems**
+| **April 2008 - May 2013** *Remote (Vancouver, BC)*
 
     - Entrusted with development of new products for entry into existing
       competitive markets
@@ -74,8 +106,8 @@ Experience
       skills through the timely execution and completion of projects while
       working remotely with quarterly trips to head office
 
-| **Software Design Engineer, Evertz Microsystems**
-| *April 2004 - 2008*
+| **Senior Software Developer (Embedded), Evertz Microsystems**
+| **April 2004 - 2008** *Burlington, On*
 
     - Identified need for improved processes and introduced CMS tools and
       policy that became adopted company wide
@@ -92,7 +124,7 @@ Experience
     - Designed JSON-RPC like protocol and implemented parsers
 
 | **Student Internship, Evertz Microsystems**
-| *April 2000 - August 2001*
+| **April 2000 - August 2001** *Burlington, On*
 
     - Designed and developed NetBSD frame controller software,
       VistaLink, to offer multiplexed SNMP/TCP control of USB devices within
@@ -104,7 +136,7 @@ Experience
     - Created transaction handler with two phase commit protocol
  
 | **NSERC Research Grant, McMaster University**
-| *April 1999 - September 1999*
+| **April 1999 - September 1999** *Hamilton, On*
 
     - Installed, configured and tested an instance of the Amoeba
       distributed operating system, characterized FLIP vs. TCP/IP, load
@@ -115,10 +147,6 @@ Experience
       systems
     - Furthered independent research, technical and reporting abilities due
       to minimal available support
-
-.. raw:: pdf
-
-    PageBreak oneColumn
 
 Education
 ----------------
