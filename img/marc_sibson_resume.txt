@@ -47,7 +47,7 @@ Experience
     - Uphold and build a blameless culture that aligns with our values of trust, customer succes, innovation and equality
     - Focus team on today's goals while continually improving delivery, code quailty, processmaturity, and overall team health
     - Collaborate with cross-functional leaders to unblock, align and influence other teams to ensure success for the team and business
-    - Aggressivley persue vision for transformational product direction while balancing oblications to existing busines and customers
+    - Aggressivley persued vision for transformational product direction while balancing oblications to existing busines, customers and team
 
 
 | **Team Lead, Heroku/Salesforce**
@@ -123,33 +123,16 @@ Experience
       maintenance and hand off
     - Designed JSON-RPC like protocol and implemented parsers
 
-| **Student Internship, Evertz Microsystems**
-| **April 2000 - August 2001** *Burlington, On*
 
-    - Designed and developed NetBSD frame controller software,
-      VistaLink, to offer multiplexed SNMP/TCP control of USB devices within
-      a chassis.  Proven robust and extensible, still actively used
-      by hundreds of Evertz products with almost no maintenance
-    - Knowledgeable of kernel driver development from creating USB host drivers
-      and bare-metal Coldfire drivers
-    - Defined SNMP MIBs and implemented using net-snmp dynamic libraries
-    - Created transaction handler with two phase commit protocol
- 
-| **NSERC Research Grant, McMaster University**
-| **April 1999 - September 1999** *Hamilton, On*
-
-    - Installed, configured and tested an instance of the Amoeba
-      distributed operating system, characterized FLIP vs. TCP/IP, load
-      balancing and network requirements
-    - Configured and integrated Linux based router/bridge into existing
-      network to support testing of various network topologies
-    - Created developer, administrative and end-user documentation for the
-      systems
-    - Furthered independent research, technical and reporting abilities due
-      to minimal available support
-
-Education
+Studies
 ----------------
+  - Problem Solving Leadership *with Ester Derby and Don Grey*
+  - Search inside Yourself
+  - Crucial Conversations
+  - Software Leadership Semninar with *Marcus Blankenship*
+  - Student Internship, *Evertz Microsystems*
+  - NSERC Research Grant, *McMaster University* 
+
 | **B.Sc Computer Science Specialist, McMaster University**
 | *September 1997 - April 2002*
 

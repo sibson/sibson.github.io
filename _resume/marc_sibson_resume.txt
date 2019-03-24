@@ -22,7 +22,7 @@ down to kernel drivers and embedded device development.
 Expertise
 ----------------
 Leadership
-    Agile practices, Facilitiation, Fostering collaborative culture,
+    Agile practices, Facilitation, Fostering collaborative culture,
     Ruthless prioritization, Empathy, Mentoring, Explicit communication,
     Understanding business *value and needs,
 
@@ -43,11 +43,11 @@ Experience
 | **Engineering Manager, Heroku/Salesforce**
 | **Aug 2016 - Present** *Remote (Vancouver, BC/Brampton, ON)*
 
-    - Support and faciliate individual personal growth and overall team autoonmy
-    - Uphold and build a blameless culture that aligns with our values of trust, customer succes, innovation and equality
-    - Focus team on today's goals while continually improving delivery, code quailty, processmaturity, and overall team health
+    - Support and facilitate individual personal growth and overall team autonomy
+    - Uphold and build a blameless culture that aligns with our values of trust, customer success, innovation and equality
+    - Focus team on today's goals while continually improving delivery, code quality, process maturity, and overall team health
     - Collaborate with cross-functional leaders to unblock, align and influence other teams to ensure success for the team and business
-    - Aggressivley persued vision for transformational product direction while balancing oblications to existing busines, customers and team
+    - Aggressively pursued vision for transformational product direction while balancing obligations to existing business, customers and team
 
 
 | **Team Lead, Heroku/Salesforce**
@@ -66,13 +66,13 @@ Experience
 | **Principle Member of Technical Staff, Heroku/Salesforce**
 | **Aug 2014 - Dec 2015** *Remote (Vancouver, BC)*
 
-   - Backend distributed systems development of Heroku Connect, a bi-directional database syncronization engine for Salesforce Core CRM Data.
-   - Drive improvements to service reliability, including improving platform observability, architectural change and bootstraping CI/CD effort,
-   - Build release confidence by introducing intergration canaries, improved automated test coverage and performance optimization
+   - Backend distributed systems development of Heroku Connect, a bi-directional database synchronization engine for Salesforce Core CRM Data.
+   - Drive improvements to service reliability, including improving platform observability, architectural change and bootstrapping CI/CD effort,
+   - Build release confidence by introducing integration canaries, improved automated test coverage and performance optimization
    - Influence product roadmap to ensure continuation of sustainable and successful engineering efforts
-   - Consistently deliver high value features to address product gaps ensuring customer sucess
+   - Consistently deliver high value features to address product gaps ensuring customer success
    - Identify and build out patterns, frameworks and documentation to increase team velocity
-   - Contribute back to OSS with bugfixes, and release of components built in support of the product.
+   - Contribute back to OSS with bug fixes, and release of components built in support of the product.
 
 
 | **Lead Software Engineer (Full Stack Web), Tindie**
@@ -81,7 +81,7 @@ Experience
     - Full stack development for a two-sided marketplace, based on Django/JQuery/Knockout/Bootstrap
     - Reduced hosting costs more than 60% on AWS infrastructure, while improving reliability, performance and maintainability
     - Led design and development of accounting, shipping, fraud detection, analytics and image management systems
-    - Demonstated ability to work with a distributed international team in a startup environment
+    - Demonstrated ability to work with a distributed international team in a startup environment
 
 | **Lead Software Developer (Distributed Systems), Evertz Microsystems**
 | **April 2008 - May 2013** *Remote (Vancouver, BC)*
@@ -92,9 +92,9 @@ Experience
       and deployment, testing and build infrastructure for an instant replay
       system while providing design guidance to team members for optimising
       system for low latency
-    - Architected a highly available audio and video router control system,
-      consisting of many Twisted services for coordination, pathfinding
-      and clustering.  Coordinated with front end teams who created a TG Web
+    - Architect a highly available audio and video router control system,
+      consisting of many Twisted services for coordination, path-finding
+      and clustering.  Coordinated with front end teams who created a TurboGears Web
       front end and physical control panels
     - Communicated with customers and on-site support to install, configure
       and troubleshoot beta installations of business critical systems at 
@@ -123,33 +123,16 @@ Experience
       maintenance and hand off
     - Designed JSON-RPC like protocol and implemented parsers
 
-| **Student Internship, Evertz Microsystems**
-| **April 2000 - August 2001** *Burlington, On*
 
-    - Designed and developed NetBSD frame controller software,
-      VistaLink, to offer multiplexed SNMP/TCP control of USB devices within
-      a chassis.  Proven robust and extensible, still actively used
-      by hundreds of Evertz products with almost no maintenance
-    - Knowledgeable of kernel driver development from creating USB host drivers
-      and bare-metal Coldfire drivers
-    - Defined SNMP MIBs and implemented using net-snmp dynamic libraries
-    - Created transaction handler with two phase commit protocol
- 
-| **NSERC Research Grant, McMaster University**
-| **April 1999 - September 1999** *Hamilton, On*
-
-    - Installed, configured and tested an instance of the Amoeba
-      distributed operating system, characterized FLIP vs. TCP/IP, load
-      balancing and network requirements
-    - Configured and integrated Linux based router/bridge into existing
-      network to support testing of various network topologies
-    - Created developer, administrative and end-user documentation for the
-      systems
-    - Furthered independent research, technical and reporting abilities due
-      to minimal available support
-
-Education
+Studies
 ----------------
+  - Problem Solving Leadership *with Ester Derby and Don Grey*
+  - Search inside Yourself
+  - Crucial Conversations
+  - Software Leadership Seminar with *Marcus Blankenship*
+  - Student Internship, *Evertz Microsystems*
+  - NSERC Research Grant, *McMaster University* 
+
 | **B.Sc Computer Science Specialist, McMaster University**
 | *September 1997 - April 2002*
 
