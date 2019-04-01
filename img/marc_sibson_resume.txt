@@ -23,7 +23,7 @@ Expertise
 ----------------
 Leadership
     Agile practices, Facilitation, Fostering collaborative culture,
-    Empathy, Mentoring, Explicit communication,
+    Empathy, Mentoring, clear and concise communication,
     Understanding and Balancing business needs, Ruthless prioritization
 
 Technical Domains
@@ -43,11 +43,11 @@ Experience
 | **Engineering Manager, Heroku/Salesforce**
 | **Aug 2016 - Present** *Remote (Vancouver, BC/Brampton, ON)*
 
-    - Support and facilitate individual personal growth and overall team autonomy
+    - Support and facilitate individual's personal growth and build a diverse remote, autonomous team
     - Uphold and build a blameless culture that aligns with our values of trust, customer success, innovation and equality
     - Focus team on today's goals while continually improving delivery, code quality, process maturity, and overall team health
     - Collaborate with cross-functional leaders to unblock, align and influence other teams to ensure success for the team and business
-    - Aggressively pursued vision for transformational product direction while balancing obligations to existing business, customers and team
+    - Aggressively pursued vision for transformational product direction while balancing obligations to existing strategic business, customers and team
 
 
 | **Team Lead, Heroku/Salesforce**
