@@ -1,154 +1,80 @@
 Marc Sibson
 ##############################################################################
 
-| 41 Inder Heights Dr, Brampton, On, L6Z 3N5
-| sibson@gmail.com | 604-783-6909 
+| 41 Inder Heights Dr, Brampton, Ontario, L6Z 3N5
+| sibson@gmail.com | 604-783-6909
 | http://marcsibson.com/ | https://github.com/sibson/
 
 Profile
 ----------------
-A problem solving leader who loves challenges and growth. 
-After ten years as a Software Developer, I've become more focused on helping others thrive and excel.
-As a leader I've discovered an appreciation for the complexity of people and
-the numerous obstacles that we need to overcome to create outstanding products,
-value and teams.
-As a developer, I successfully juggled evolving requirements and blended new technologies into robust and elegant products. 
-I ran the gamut from full-stack web development, 
-creating and operating distributed highly available systems, 
-crafting custom lightweight Linux distributions,
-down to kernel drivers and embedded device development.
+I'm a problem solving leader who loves challenges and growth.
+As a developer turned manager, my goal continues to be building delightful impactful products, but now I'm focused on helping others thrive and excel while doing so.
+Building vision, culture and teams rather than code has taught me to appreciate the complexity, nuance and obstacles people introduce.
+Having recently moved to Ontario after nearly ten years on the west coast, I'm longing for a return to moderate winters, ocean breezes and real mountains on your doorstep.
+I'm looking forward to broadening my horizons, learning from my peers and making a difference.
 
-
-Expertise
-----------------
-Leadership
-    Agile practices, Facilitation, Fostering collaborative culture,
-    Empathy, Mentoring, clear and concise communication,
-    Understanding and Balancing business needs, Ruthless prioritization
-
-Technical Domains
-    Distributed, Concurrency, Multi-threaded, Networked, Embedded, Control Systems
-    GNU/Linux, NetBSD, Cross-platform, Configuration Management,
-    Continuous Integration, Build Processes and High Availability
-
-Languages, Tools, Libraries, Technologies
-    Python, C, HTML, JavaScript, C++, Bash, Make, Java, Lua
-    PostgreSQL, Redis, Kafka, AWS, Memcached, KVM
-    Django, gevent, Twisted, dpkg, Openembedded, Flask, Ansible, Chef, Terraform
-    Git, Subversion, Ubuntu, Jenkins, Heroku, AWS
-
-
-Experience
+Work Experience
 ----------------
 | **Engineering Manager, Heroku/Salesforce**
-| **Aug 2016 - Present** *Remote (Vancouver, BC/Brampton, ON)*
+| **Jun 2016 - Present** 
 
-    - Support and facilitate individual's personal growth and build a diverse remote, autonomous team
-    - Uphold and build a blameless culture that aligns with our values of trust, customer success, innovation and equality
-    - Focus team on today's goals while continually improving delivery, code quality, process maturity, and overall team health
-    - Collaborate with cross-functional leaders to unblock, align and influence other teams to ensure success for the team and business
-    - Aggressively pursued vision for transformational product direction while balancing obligations to existing strategic business, customers and team
+    - Total ownership team responsible for strategic product, that drives YoY ACV growth for Heroku's fastest growing and most substantial business segment
+    - Encouraged and supported team members personal and career growth, 2 Lead, 1 Principal and 1 Architect promotion within team
+    - Assisted peer's growth by institution of manager circle, a safe group space for EMs to get advice/coaching, and helped others build peer networks via organized 1:1s
+    - Assumed day to day Product Manager responsibilities during extended search for new PM, including roadmap, customer de-escalations, pre-sales
+    - Aggressively pursued new product vision that became foundational to Org wide pivot
+    - Utilized data backed approach, team surveys and cycle time, to guide fully remote team in building a healthy collaborative environment and increase ability to deliver high value/quality features
+    - Created additional capacity by reducing support escalations and interrupts, ~30h/wk at random to ~5h/wk scheduled
+    - Facilitated experiential learning workshops to help team discover and address blind spots and opportunities for improvement
 
+| **Principal Member of Technical Staff, Heroku/Salesforce**
+| **Aug 2014 - Jun 2016** 
 
-| **Team Lead, Heroku/Salesforce**
-| **Dec 2015 - Aug 2016** *Remote (Vancouver, BC)*
-
-    - Lead fully remote team to ensure consistent delivery of high value and high quality features
-    - Collaborate with cross-functional leaders to define product roadmap
-    - Champion reduction of technical debt and service scalability and reliability
-    - Work with Sales and Support to address and de-escalate issues for strategic customers
-
-.. raw:: pdf
-
-    PageBreak oneColumn
-
-
-| **Principle Member of Technical Staff, Heroku/Salesforce**
-| **Aug 2014 - Dec 2015** *Remote (Vancouver, BC)*
-
-   - Backend distributed systems development of Heroku Connect, a bi-directional database synchronization engine for Salesforce Core CRM Data.
-   - Drive improvements to service reliability, including improving platform observability, architectural change and bootstrapping CI/CD effort,
-   - Build release confidence by introducing integration canaries, improved automated test coverage and performance optimization
-   - Influence product roadmap to ensure continuation of sustainable and successful engineering efforts
-   - Consistently deliver high value features to address product gaps ensuring customer success
-   - Identify and build out patterns, frameworks and documentation to increase team velocity
-   - Contribute back to OSS with bug fixes, and release of components built in support of the product.
+   - Back-end distributed systems development of Heroku Connect, a cloud based bi-directional database synchronization SaaS for Salesforce Core CRM Data.
+   - Drive improvements to service reliability, including improving platform observability, managing architectural change and bootstrapping CI/CD efforts
+   - Built release confidence by introducing integration canaries, improved automated test coverage and performance optimization
+   - Identified and built out patterns, frameworks and documentation to increase team velocity
 
 
 | **Lead Software Engineer (Full Stack Web), Tindie**
-| **May 2013 - Aug 2014** *Remote (Vancouver, BC)*
+| **May 2013 - Aug 2014** 
 
-    - Full stack development for a two-sided marketplace, based on Django/JQuery/Knockout/Bootstrap
-    - Reduced hosting costs more than 60% on AWS infrastructure, while improving reliability, performance and maintainability
-    - Led design and development of accounting, shipping, fraud detection, analytics and image management systems
-    - Demonstrated ability to work with a distributed international team in a startup environment
-
-| **Lead Software Developer (Distributed Systems), Evertz Microsystems**
-| **April 2008 - May 2013** *Remote (Vancouver, BC)*
-
-    - Entrusted with development of new products for entry into existing
-      competitive markets
-    - Responsible for developing API services, storage, OS configuration 
-      and deployment, testing and build infrastructure for an instant replay
-      system while providing design guidance to team members for optimising
-      system for low latency
-    - Architect a highly available audio and video router control system,
-      consisting of many Twisted services for coordination, path-finding
-      and clustering.  Coordinated with front end teams who created a TurboGears Web
-      front end and physical control panels
-    - Communicated with customers and on-site support to install, configure
-      and troubleshoot beta installations of business critical systems at 
-      major networks including NBC, Fox, MTV and the Olympics
-    - Mentored junior engineers through coaching, design and code reviews
-    - Evangelised and drove adoption of new technologies via creation of
-      functional prototypes and developing in house training materials
-    - Proven work ethic, independence, time management, and communication
-      skills through the timely execution and completion of projects while
-      working remotely with quarterly trips to head office
+   - Full stack development for a two-sided marketplace startup
+   - Reduced AWS costs more than 60%, while improving reliability, performance and maintainability
+   - Led design and development of accounting, shipping, fraud detection, analytics and image management systems
+   - Demonstrated ability to work with a distributed international team in a startup environment
 
 .. raw:: pdf
 
     PageBreak oneColumn
 
-| **Senior Software Developer (Embedded), Evertz Microsystems**
-| **April 2004 - 2008** *Burlington, On*
+| **Lead Software Developer (Distributed Systems), Evertz Microsystems**
+| **April 2008 - May 2013** 
 
-    - Identified need for improved processes and introduced CMS tools and
-      policy that became adopted company wide
-    - Well versed in cross-platform support through development of libraries
-      and build processes targeting Win32, Linux, BSD, OSX and a custom RTOS
-    - Familiar with 3D graphics pipeline from creation of scene graph based 
-      live video renderer prototype
-    - Managed and developed Linux platform support: x86, Atom and Davinci(ARM)
-    - Developed embedded applications with Motorola Coldfire, PowerPC and
-      ARM processors including boot loaders and initial bring up of hardware
-    - Experience with the full software life cycle: requirements gathering,
-      project definition, design, implementation, testing, support,
-      maintenance and hand off
-    - Designed JSON-RPC like protocol and implemented parsers
+| **Senior Software Developer (Embedded Systems), Evertz Microsystems**
+| **April 2004 - 2008** 
+
+
+Strengths 
+----------
+Leadership
+    Building Trust: with empathy, transparently and vulnerability, resulting in high retention, relative to Org, increased feedback and psychological safety as reported by team.
+    Ruthless Prioritization: focus, focus, focus and say no. WIP limits, Icebox with comms templates, relief valves (Hygiene Week, On-call, Hack week)
+    Excelling while Making do: managed flat head count, while team supported exponential customer growth, while also being one of few teams to deliver net new product.
+    Breaking Silos: gaining support from other teams. Customer Support handled more tickets, Core teams developed features for us, strategic alignment creating more opportunities
+
+Technical
+    Distributed Systems, Networking, Embedded Systems, Control Systems, Cross-platform
+    Continuous Integration, Continuous Deployment, Build Processes
+    Python, C, HTML, JavaScript, C++, Java, PostgreSQL, Redis, Kafka, AWS
 
 
 Studies
 ----------------
+| **Workshops**
+
   - Problem Solving Leadership *with Ester Derby and Don Grey*
-  - Search inside Yourself
-  - Crucial Conversations
   - Software Leadership Seminar with *Marcus Blankenship*
-  - Student Internship, *Evertz Microsystems*
-  - NSERC Research Grant, *McMaster University* 
-
-| **B.Sc Computer Science Specialist, McMaster University**
-| *September 1997 - April 2002*
-
-    - Awarded Gerald L. Keech Medal, Dr. R.A. Thompson Prize In Mathematics,
-      University Senate Scholarship (twice), and Dean's Honour List
-    - Created a real-time, multi-player, networked, cross-platform game
-      engine and multiple games for the senior thesis project.
-    - Studied Operating Systems, Computer Architecture, Computer Graphics,
-      Data Structures, Software Engineering, Artificial Intelligence,
-      Graph Theory, Linear Algebra and Combinatorics
-    - Teaching Assistant responsible for running tutorials, grading and
-      electronic support
 
 | **Graduate Studies, Computer Science McMaster University**
 | *Sept 2002 -  April 2004*
@@ -160,6 +86,21 @@ Studies
     - Teaching Assistant responsible for creating assignments, grading,
       assisting students with questions, offering feedback and guidance
       for several undergraduate courses
+
+| **Bachelor of Science, Summa Cum Laude, Honours Computer Science, McMaster University**
+| *September 1997 - April 2002*
+
+    - Awarded Gerald L. Keech Medal (2002), Dr. R.A. Thompson Prize In Mathematics (2000),
+      University Senate Scholarship (1998, 1999), and Dean's Honour List
+    - Recipient of NSERC Research Grant
+    - Created a real-time, multi-player, networked, cross-platform game
+      engine and multiple games for senior thesis project.
+    - Studied Operating Systems, Computer Architecture, Computer Graphics,
+      Data Structures, Software Engineering, Artificial Intelligence,
+      Graph Theory, Linear Algebra and Combinatorics
+    - Teaching Assistant responsible for running tutorials, grading and online support
+    - Internship, Evertz Microsystems
+
 
 .. header::
 

@@ -1,14 +1,14 @@
     pageSetup:
         firstTemplate: coverPage
         size: Letter
-        margin-top: 2cm
+        margin-top: 1cm
         margin-bottom: 1cm
         margin-left: 2cm
         margin-right: 2cm
         margin-gutter: 0cm
 
-    pageTemplates: 
-        coverPage:  
+    pageTemplates:
+        coverPage:
             showHeader: false
             showFooter: true
 
@@ -22,7 +22,7 @@
             fontName: Arial-Bold
             spaceBefore: 8
             fontSize: 150%
-            spaceAfter: 4
+            spaceAfter: 2
 
         base:
             fontName: Arial
@@ -42,7 +42,7 @@
             spaceBefore: 0
 
         lineblock:
-            spaceBefore: 0
+            spaceBefore: 10
             alignment: left
 
         field-list: 
