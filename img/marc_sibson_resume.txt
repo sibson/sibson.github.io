@@ -10,7 +10,7 @@ Profile
 I'm a problem solving leader who loves challenges and growth.
 As a developer turned manager, my goal continues to be building delightful impactful products, but now I'm focused on helping others thrive and excel while doing so.
 Building vision, culture and teams rather than code has taught me to appreciate the complexity, nuance and obstacles people introduce.
-Having recently moved to Ontario after nearly ten years on the west coast, I'm longing for a return to moderate winters, ocean breezes and real mountains on your doorstep.
+Having recently moved to Ontario after nearly ten years on the west coast, I'm longing for a return to moderate winters, ocean breezes and mountains on your doorstep.
 I'm looking forward to broadening my horizons, learning from my peers and making a difference.
 
 Work Experience
@@ -57,13 +57,19 @@ Work Experience
 
 Strengths 
 ----------
-Leadership
-    Building Trust: with empathy, transparently and vulnerability, resulting in high retention, relative to Org, increased feedback and psychological safety as reported by team.
-    Ruthless Prioritization: focus, focus, focus and say no. WIP limits, Icebox with comms templates, relief valves (Hygiene Week, On-call, Hack week)
-    Excelling while Making do: managed flat head count, while team supported exponential customer growth, while also being one of few teams to deliver net new product.
-    Breaking Silos: gaining support from other teams. Customer Support handled more tickets, Core teams developed features for us, strategic alignment creating more opportunities
+:Building Trust:
+    With a combination of empathy, transparently and vulnerability. Resulting in high retention, relative to Org, increased feedback and psychological safety as reported by team.
 
-Technical
+:Ruthless Prioritization:
+    Focus, focus, focus and say no. Using WIP limits, Icebox with comms, relief valves (Hygiene Week, On-call, Hack week)
+
+:Excelling while Making do:
+    Managed flat head count, while team supported exponential customer growth and was also one of few teams delivering net new product
+
+:Breaking Silos:
+    Gaining support from other teams by building relationships. Customer Support handled more tickets, Core teams developed features for our use cases, strategic alignment creating more opportunities to collaborate
+
+:Technical:
     Distributed Systems, Networking, Embedded Systems, Control Systems, Cross-platform
     Continuous Integration, Continuous Deployment, Build Processes
     Python, C, HTML, JavaScript, C++, Java, PostgreSQL, Redis, Kafka, AWS

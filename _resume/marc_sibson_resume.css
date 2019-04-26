@@ -13,19 +13,19 @@
             showFooter: true
 
     styles: 
+        base:
+            fontName: Arial
+            alignment: left
+
         title:
             fontName: Arial-BoldNarrow
-            alignment: left
             spaceAfter: 0
 
         heading1:
             fontName: Arial-Bold
-            spaceBefore: 8
+            spaceBefore: 6
             fontSize: 150%
             spaceAfter: 2
-
-        base:
-            fontName: Arial
 
         header:
             fontName: Arial-BoldNarrow
@@ -34,16 +34,19 @@
         bodytext:
             spaceBefore: 0
 
+        lineblock:
+            spaceBefore: 4
+            spaceAfter: 0
+
         bullet-list:
-            spaceBefore: 0
-            spaceAfter: 10
+            spaceBefore: -2
+            spaceAfter: 5
 
         bullet-list-item:
             spaceBefore: 0
 
-        lineblock:
-            spaceBefore: 10
-            alignment: left
-
         field-list: 
+            spaceBefore: 0
+
+        definition-list:
             spaceBefore: 10
