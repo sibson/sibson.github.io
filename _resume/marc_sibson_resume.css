@@ -20,19 +20,23 @@
         title:
             fontName: Arial-BoldNarrow
             spaceAfter: 0
+            alignment: left
 
         heading1:
             fontName: Arial-Bold
-            spaceBefore: 6
+            spaceBefore: 10
             fontSize: 150%
             spaceAfter: 2
+            alignment: center
 
         header:
             fontName: Arial-BoldNarrow
-            fontSize: 150%
+            fontSize: 100%
+            alignment: right
 
         bodytext:
             spaceBefore: 0
+            alignment: left
 
         lineblock:
             spaceBefore: 4
@@ -43,7 +47,9 @@
             spaceAfter: 5
 
         bullet-list-item:
+            alignment: left
             spaceBefore: 0
+            spaceAfter: 0
 
         field-list: 
             spaceBefore: 0
