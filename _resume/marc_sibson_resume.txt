@@ -1,8 +1,6 @@
 Marc Sibson
 ##############################################################################
-
-| 41 Inder Heights Dr, Brampton, Ontario, L6Z 3N5
-| sibson@gmail.com | 604-783-6909
+| sibson@gmail.com
 | http://marcsibson.com/ | https://github.com/sibson/
 -------------------------------------------------------------
 
