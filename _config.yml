@@ -6,6 +6,7 @@
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 url: "http://sibson.github.io"
 baseurl: ""
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://sibson.github.io/projectname"
