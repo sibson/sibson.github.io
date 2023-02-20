@@ -34,6 +34,7 @@ Work Experience
 
 | **Engineering Manager, Heroku/Salesforce**
 | **Jun 2016 - Jul 2019, Remote** 
+
     - Oversaw total ownership team responsible for rapid growth and maturation of the service over the next three years from 0 to 100M in combined (inclusive of pull-through DB service) ARR and over 3K paid enterprise accounts.
     - Expanded service footprint from two deployments to ten across six global data centers, and obtained multiple certifications SOX/SOX2/HIPPA
     - Encouraged and supported team member's personal and career growth, 2 Lead, 1 Principal and 1 Architect promotion within team
@@ -68,6 +69,11 @@ Work Experience
 | **April 2004 - 2008, Burlington, On** 
 
 
+.. raw:: pdf
+
+    PageBreak oneColumn
+
+
 Strengths 
 ----------
 :Trust:
@@ -89,6 +95,7 @@ Strengths
     Distributed Systems, Data Movement, Embedded Systems, Control Systems, Cross-platform
     Continuous Integration, Continuous Deployment, Build Processes
     Python, C, HTML, JavaScript, C++, Java, PostgreSQL, Redis, Kafka, AWS, Django, Clery
+
 
 
 Studies
