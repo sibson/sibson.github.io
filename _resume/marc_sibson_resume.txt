@@ -4,7 +4,7 @@ Marc Sibson
 
 Profile
 ----------------
-I'm a problem solving leader who loves challenges and growth.
+I am a problem solving leader who loves challenges and growth.
 As a developer turned manager, my goal continues to be building high impact and delightful products, but now I do so by helping others thrive and excel.
 Building vision, culture and teams rather than code has taught me to appreciate the complexity, nuance and unpredictability people introduce into the system.
 I'm looking forward to broadening my horizons, learning from my peers and making a difference.
@@ -15,7 +15,7 @@ Work Experience
 | **Apr 2021 - Present, Remote**
 
     - Responsible for external data integration into Tableau (Extracts), which includes both back-end services and end-user facing UI which is heavily used by all Tableau customers.
-    - Stabilze existing legacy product, reducing: incidents, defects, customer escalations, developer toil and improve availability
+    - Stabilze existing legacy product, reducing: incidents, defects, customer escalations, developer toil, and improving availability
     - Refocus and rebuild engineering team, product roadmap, partnerships with Product,  while driving developer productivity and growing team
     - Bootstramp new team and workstream, focused on high volume, low latency data ingestion into CDP/Genie (Spark/k8s/Iceberg) and intergration with Hyper Analytical Database
     - Initiated an effort to reduce meeting load, increase productivity and happiness across a large, geographically distributed team.
@@ -25,9 +25,9 @@ Work Experience
 | **Director, Salesforce Platform**
 | **Jul 2019 - Apr 2021, Remote**
 
-    - Leading two teams focused on deep seamless platform integrations between elastic cloud compute and Core CRM
-    - Deliver zero to one product, Salesforce Functions, Lambda-like functions with optimized DevEx for Salesforce Developers
-    - Collaborate with cross functional program team to concurrently deliver new infrastruture built on internal k8s architecture
+    - Led two teams focused on deep seamless platform integrations between elastic cloud compute and Core CRM
+    - Delivered zero to one product, Salesforce Functions, Lambda-like functions with optimized DevEx for Salesforce Developers
+    - Collaborated with cross functional program team to concurrently deliver new infrastruture built on internal k8s architecture
     - Motivated tooling/automation investments that allowed legacy product to be maintained by a single FTE, creating space for team to pivot to new product opportunities
     - Facilitated experiential agile learning workshops to help team discover and address blind spots and opportunities for improvement
 
@@ -69,11 +69,6 @@ Work Experience
 | **April 2004 - 2008, Burlington, On** 
 
 
-.. raw:: pdf
-
-    PageBreak oneColumn
-
-
 Strengths 
 ----------
 :Trust:
@@ -95,6 +90,11 @@ Strengths
     Distributed Systems, Data Movement, Embedded Systems, Control Systems, Cross-platform
     Continuous Integration, Continuous Deployment, Build Processes
     Python, C, HTML, JavaScript, C++, Java, PostgreSQL, Redis, Kafka, AWS, Django, Clery
+
+
+.. raw:: pdf
+
+    PageBreak mainPage
 
 
 
@@ -135,7 +135,7 @@ Open Source
 ----------------
 | **vncdotool**
 
-A command line VNC client. Useful to automating interactions with virtual machines or hardware devices that are otherwise difficult to control.
+A command line VNC client. Useful to automate interactions with virtual machines or hardware devices that are otherwise difficult to control.
 
 | **RedBeat**
 

@@ -1,5 +1,5 @@
     pageSetup:
-        firstTemplate: coverPage
+        firstTemplate: mainPage
         size: Letter
         margin-top: 1cm
         margin-bottom: 1cm
@@ -11,6 +11,9 @@
         coverPage:
             showHeader: false
             showFooter: true
+
+        mainPage:
+            showHeader: false
 
     styles: 
         base:
