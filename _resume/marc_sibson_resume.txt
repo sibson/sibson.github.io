@@ -57,7 +57,7 @@ Work Experience
 | **Full Stack Web Lead Engineer, Tindie**
 | **May 2013 - Aug 2014, Remote** 
 
-   - Full stack development for a two-sided marketplace startup
+   - Full stack development for angel backed startup creating a two-sided marketplace for electronics
    - Reduced AWS costs more than 60%, while improving reliability, performance and maintainability
    - Led design and development of accounting, shipping, fraud detection, analytics and image management systems
    - Demonstrated ability to work with a distributed international team in a startup environment
