@@ -26,13 +26,13 @@ chsh -s /bin/zsh
 ```
 
 # Shell Environment Configuration
-```
+```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 # Dotfiles
 # https://www.atlassian.com/git/tutorials/dotfiles
-```
+```sh
 git clone --bare git@github.com:sibson/dotfiles.git $HOME/.dotfiles
 alias gitdot='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 gitdot checkout
@@ -52,9 +52,12 @@ gitdot config status.showUntrackedFiles no
 ## MaxOS
 
 ## Liunx
+```sh
 sudo apt-get install -y build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev llvm libncursesw5-dev xz-utils libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
-
+```
 # Common
+```
 asdf plugin add python
 asdf install python latest
 asdf global python latest
+```
